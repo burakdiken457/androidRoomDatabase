@@ -32,11 +32,11 @@ class MainActivity : AppCompatActivity() {
         )
 
         val subjects = listOf<Subject>(
-            Subject("arcane"),
-            Subject("frost"),
-            Subject("fire"),
-            Subject("holy"),
-            Subject("shadow"),
+            Subject("hava"),
+            Subject("toprak"),
+            Subject("su"),
+            Subject("ateş"),
+            Subject("tahta"),
         )
 
         val studentAndSubjectCrossRef = listOf<StudentAndSubjectCrossRef>(
