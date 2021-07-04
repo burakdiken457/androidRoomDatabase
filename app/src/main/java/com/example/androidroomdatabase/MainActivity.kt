@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         val dao = SchoolDatabase.getInstance(this).schoolDao
 
         val directors = listOf(
-            Director("Sylvanas", "Undercity"),
+            Director("Ayse", "Pepsi"),
             Director("Anduin", "Stormwind"),
             Director("Tyrande", "Darnassus")
         )
