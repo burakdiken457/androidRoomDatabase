@@ -32,10 +32,10 @@ class MainActivity : AppCompatActivity() {
         )
 
         val subjects = listOf<Subject>(
-            Subject("arcane"),
-            Subject("frost"),
-            Subject("fire"),
-            Subject("holy"),
+            Subject("ateş"),
+            Subject("toprak"),
+            Subject("su"),
+            Subject("tahta"),
             Subject("shadow"),
         )
 
